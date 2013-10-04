@@ -8,4 +8,6 @@ Anyone who wants to use this plugin through vundle, simply add blow to your vimr
     
     Bundle 'zixiaojindao/calendar.vim'
 
+![screenshot](http://thumbsnap.com/i/8usSWXpg.png)
+
 
